@@ -1,0 +1,7 @@
+git init #git 시작
+git add . #올릴 파일 및 변경 파일 찾기
+git status #상태 확인
+git commit -m "first commit" #히스토리 생성
+git remote add origin https://github.com/TAEKYUN4787/python_basic_mathematics.git #연결
+git remote -v #연결 확인
+git push origin main  #업로드 // -f 옵션 강제 
